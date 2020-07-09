@@ -5,6 +5,8 @@ I'm a software development student :mortar_board: <br> currently working as a we
 I like to develop creative solutions :star: <br> in order to grant the value expected by the client :rocket:
 <br><br>
 
+📫 E-mail: kcb.schaeffer@gmail.com
+
 <!--
 **K-Schaeffer/K-Schaeffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
