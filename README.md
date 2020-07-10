@@ -1,27 +1,14 @@
-# Kauan Schaeffer 💻  | [![LinkedIn][linkedin-shield]][linkedin-url] 
-## Welcome 👋,
-I'm a software development student :mortar_board: <br> currently working as a web/mobile developer ⚡
-<br>
-I like to develop creative solutions :star: <br> in order to grant the value expected by the client :rocket:
-<br><br>
-
-📫 E-mail: kcb.schaeffer@gmail.com
-
-<!--
-**K-Schaeffer/K-Schaeffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--  I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Kauan Schaeffer :man_technologist: | 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/k-schaeffer/)](https://www.linkedin.com/in/k-schaeffer/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kcb.schaeffer@gmail.com)](mailto:kcb.schaeffer@gmail.com)
 
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/k-schaeffer/
+## Welcome 👋
+
+- 💻 Working as a web/mobile developer
+- 🌱 Learning Flutter and Vue.js
+- ⚡ Learning (more) JS
+- :mortar_board: Interested in UX/UI
+- :milky_way: In love with Philosophy
+- :chart_with_upwards_trend: With an eye on economics and finance
+- :rocket: Trying to create value with all that
