@@ -1,4 +1,4 @@
-# Kauan Schaeffer :man_technologist: | 
+# Kauan Schaeffer :man_technologist:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/k-schaeffer/)](https://www.linkedin.com/in/k-schaeffer/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kcb.schaeffer@gmail.com)](mailto:kcb.schaeffer@gmail.com)
 
