@@ -12,3 +12,9 @@
 - :milky_way: In love with Philosophy
 - :chart_with_upwards_trend: With an eye on economics and finance
 - :rocket: Trying to create value with all that
+
+---
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=k-schaeffer&show_icons=true&theme=graywhite" />
+</a>
