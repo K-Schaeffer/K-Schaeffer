@@ -5,7 +5,7 @@
 
 ## Welcome 👋
 
-- 💻 Working as a front-end engineer w/ Vue.js web
+- 💻 Working as a front-end engineer w/ Vue.js
 - 🌱 Learning Flutter and Vue.js
 - ⚡ Learning (more) JS
 - :mortar_board: Interested in UX/UI
