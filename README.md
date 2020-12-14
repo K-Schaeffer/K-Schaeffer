@@ -5,7 +5,7 @@
 
 ## Welcome 👋
 
-- 💻 Working as a web developer w/ Vue.JS and Wijmo Components
+- 💻 Working as a front-end engineer w/ Vue.js web
 - 🌱 Learning Flutter and Vue.js
 - ⚡ Learning (more) JS
 - :mortar_board: Interested in UX/UI
