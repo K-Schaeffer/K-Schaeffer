@@ -6,8 +6,8 @@
 ## Welcome 👋
 
 - 💻 Working as a front-end engineer w/ Vue.js
-- 🌱 Learning Flutter and Vue.js
-- ⚡ Learning (more) JS
+- 🌱 Learning Vue.js
+- ⚡ Learning (more) JS 
 - :mortar_board: Interested in UX/UI
 - :milky_way: In love with Philosophy
 - :chart_with_upwards_trend: With an eye on economics and finance
