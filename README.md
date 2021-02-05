@@ -5,7 +5,7 @@
 
 ## Welcome 👋
 
-- 💻 Working as a front-end engineer w/ Vue.js
+- 💻 Working as a [front-end engineer w/ Vue.js](https://github.com/kauanschaeffer)
 - 🌱 Learning Vue.js
 - ⚡ Learning (more) JS 
 - :mortar_board: Interested in UX/UI
