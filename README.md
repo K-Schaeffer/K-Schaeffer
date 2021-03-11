@@ -40,9 +40,9 @@
 
 ---
 <p>&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=k-schaeffer&show_icons=true&theme=omni&locale=en" alt="k-schaeffer" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=k-schaeffer&show_icons=true&theme=omni&locale=en&hide_border=true" alt="k-schaeffer" />
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-schaeffer&show_icons=true&theme=omni&locale=en&layout=compact" alt="k-schaeffer" /></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-schaeffer&show_icons=true&theme=omni&locale=en&layout=compact&hide_border=true" alt="k-schaeffer" /></p>
   
