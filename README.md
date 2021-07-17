@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Kauan</h1>
-<h3 align="center">A junior front-end engineer looking to learn more and more</h3>
+<h3 align="center">A front-end engineer looking to learn more and more</h3>
 
 ---
 - 🔭 Currently working at [LogComex](https://www.logcomex.com/)
