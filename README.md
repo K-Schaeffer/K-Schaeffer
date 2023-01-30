@@ -2,9 +2,9 @@
 <h3 align="center">A front-end engineer looking to learn more and more</h3>
 
 ---
-- 🔭 Currently working at [LogComex](https://www.logcomex.com/)
+- 🔭 Currently working at [LogComex](https://www.logcomex.com/) with Vue.js and Nuxt, collaborating on products and libraries
 
-- 🌱 Learning more about **Vue.js, Vue-Test-Utils, Vuetify and Nuxt**
+- 🌱 Learning more about **accessibility**
 
 - 👯 Looking to collaborate on [Vuetify](https://github.com/vuetifyjs/vuetify) and [Storybook](https://github.com/storybookjs/storybook)
 
