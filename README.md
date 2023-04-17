@@ -2,7 +2,7 @@
 <h3 align="center">A front-end engineer looking to learn more and more</h3>
 
 ---
-- 🔭 Currently working at [LogComex](https://www.logcomex.com/) with Vue.js and Nuxt, collaborating on products and libraries
+- 🔭 Currently working at [Voxy](https://voxy.com/)
 
 - 🌱 Learning more about **accessibility**
 
