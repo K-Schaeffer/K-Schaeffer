@@ -22,6 +22,3 @@
 - ✨ I’m into **philosophy** and enjoy writing **poetry** to express myself.
 - 🚀 Amazed by open source code and looking forward to, at some point, start collaborating on projects that I think are great, such as [Vuetify](https://github.com/vuetifyjs/vuetify), [Vue](https://github.com/vuejs/vue), [Storybook](https://github.com/storybookjs/storybook) and [Testing Library](https://github.com/testing-library).
 
----
-
-Thanks for stopping by!
