@@ -1,15 +1,27 @@
-<h1 align="center">Hey, I'm Kauan</h1>
-<h3 align="center">A front-end engineer looking to learn more and more</h3>
+*"A vida é a arte do encontro, embora haja tanto desencontro pela vida."*  
+— Vinicius de Moraes  
+
+## A passionate Front-End Engineer that loves humanities and art
 
 ---
-- 🔭 Currently working at [Voxy](https://voxy.com/)
 
-- 🌱 Learning more about **accessibility**
-
-- 👯 Looking to collaborate on [Vuetify](https://github.com/vuetifyjs/vuetify) and [Storybook](https://github.com/storybookjs/storybook)
+- 💻 Started coding at 14 with **Java** and fell in love with programming.
+- 🎓 Certified **Vue.js Senior Developer** with 4+ years of Vue.js experience.
+- 🎨 Advocate for **design systems** as cohesive products that drive scalability and consistency.
+- 🛠️ Passionate about writing great tests and helping peers improve their test-writing skills.
+- 🌱 Interested in **accessibility** and creating inclusive web experiences.
+- 🔍 Enthusiastic about **design patterns** and architectural best practices.
 
 ---
-<h3 align="left">Connect with me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/k-schaeffer/)](https://www.linkedin.com/in/k-schaeffer/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kcb.schaeffer@gmail.com)](mailto:kcb.schaeffer@gmail.com)
+## Fun Facts
+
+- 🎵 I love music and have a pretty mixed taste in styles—I’m always up for a good concert.
+- 🎨 A fan of **tattoos and piercings**, think they look pretty cool :P.
+- 🏍️ Passionate about motorcycles and the proud owner of a **Harley-Davidson 883**.
+- ✨ I’m into **philosophy** and enjoy writing **poetry** to express myself.
+- 🚀 Amazed by open source code and looking forward to, at some point, start collaborating on projects that I think are great, such as [Vuetify](https://github.com/vuetifyjs/vuetify), [Vue](https://github.com/vuejs/vue), [Storybook](https://github.com/storybookjs/storybook) and [Testing Library](https://github.com/testing-library).
+
+---
+
+Thanks for stopping by!
