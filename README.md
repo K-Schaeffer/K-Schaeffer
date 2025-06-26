@@ -6,7 +6,7 @@
 ---
 
 - 💻 Started coding at 14 with **Java** and fell in love with programming.
-- 🎓 Certified **Vue.js Senior Developer** with 4+ years of Vue.js experience.
+- 🎓 Certified **Vue.js Senior Developer** with 5+ years of Vue.js experience.
 - 🎨 Advocate for **design systems** as cohesive products that drive scalability and consistency.
 - 🛠️ Passionate about writing great tests and helping peers improve their test-writing skills.
 - 🌱 Interested in **accessibility** and creating inclusive web experiences.
